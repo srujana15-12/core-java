@@ -1,0 +1,4 @@
+class Mobile
+{
+	String brand;
+}

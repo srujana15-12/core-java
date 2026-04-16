@@ -1,4 +1,0 @@
-class Bike
-{
-	String brand;
-}
